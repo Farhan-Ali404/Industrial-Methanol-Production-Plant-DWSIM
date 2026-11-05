@@ -27,9 +27,9 @@ The primary objective is to simulate the methanol production process, obtain a c
 
 The main reaction considered in the simulation is:
 
-
-CO + 2H_2 \rightleftharpoons CH_3OH 
-
+$$
+\text{CO} + 2\text{H}_2 \rightleftharpoons \text{CH}_3\text{OH}
+$$
 
 Carbon monoxide reacts with hydrogen to produce methanol.
 
