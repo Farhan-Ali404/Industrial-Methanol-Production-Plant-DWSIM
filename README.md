@@ -27,9 +27,9 @@ The primary objective is to simulate the methanol production process, obtain a c
 
 The main reaction considered in the simulation is:
 
-\[
-CO + 2H_2 \rightleftharpoons CH_3OH
-\]
+
+CO + 2H_2 \rightleftharpoons CH_3OH 
+
 
 Carbon monoxide reacts with hydrogen to produce methanol.
 
@@ -50,7 +50,7 @@ The simulated process consists of the following major operations:
 
 The DWSIM flowsheet represents the complete process configuration, including the recycle loop.
 
-![Methanol Production Plant Flowsheet](Full_Flowsheet.png)
+![Methanol Production Plant Flowsheet](Images/Full_Flowsheet.png)
 
 ## Simulation Components
 
