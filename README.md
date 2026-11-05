@@ -16,11 +16,7 @@ The primary objective is to simulate the methanol production process, obtain a c
 | Information | Details |
 |---|---|
 | Project Title | Industrial Methanol Production Plant |
-| Student | Farhan Ali |
-| Department | Chemical Engineering |
-| Institute | National Institute of Technology Rourkela |
 | Simulation Software | DWSIM Classic |
-| Thermodynamic Model | Peng–Robinson (PR) |
 | Project Type | Process Simulation and Analysis |
 
 ## Process Chemistry
@@ -50,7 +46,7 @@ The simulated process consists of the following major operations:
 
 The DWSIM flowsheet represents the complete process configuration, including the recycle loop.
 
-![Methanol Production Plant Flowsheet](Images/Full_Flowsheet.png)
+![Methanol Production Plant Flowsheet]("C:\Users\farha\OneDrive\Desktop\Methanol-Production-Plant-DWSIM\Images\Full_Flowsheet.jpg")
 
 ## Simulation Components
 
