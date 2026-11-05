@@ -46,7 +46,7 @@ The simulated process consists of the following major operations:
 
 The DWSIM flowsheet represents the complete process configuration, including the recycle loop.
 
-![Methanol Production Plant Flowsheet]("C:\Users\farha\OneDrive\Desktop\Methanol-Production-Plant-DWSIM\Images\Full_Flowsheet.jpg")
+![Methanol Production Plant Flowsheet](Images/Full_Flowsheet.jpg)
 
 ## Simulation Components
 
